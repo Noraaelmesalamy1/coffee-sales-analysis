@@ -1,9 +1,6 @@
 # ☕ Coffee Sales Analysis Dashboard
-![Dashboard]([https://github.com/yourusername/yourrepo/assets/123456789/dashboard.png](https://github.com/Noraaelmesalamy1/coffee-sales-analysis/blob/main/Screenshot%202025-10-25%20031233.png))
-![Dashboard]([https://github.com/yourusername/yourrepo/assets/123456789/dashboard.png](https://github.com/Noraaelmesalamy1/coffee-sales-analysis/blob/main/Screenshot%202025-10-25%20031251.png))
-
-
-
+<img width="1223" height="650" alt="Screenshot 2025-10-25 031233" src="https://github.com/user-attachments/assets/04d66c8a-4a47-48e3-b984-7c7e2304646e" />
+<img width="1245" height="733" alt="Screenshot 2025-10-25 031251" src="https://github.com/user-attachments/assets/e6abd443-be0c-4be3-bce9-75ba017907ef" />
 
 ### 📊 Overview
 This project analyzes coffee shop sales performance across **three New York City locations** — Astoria, Hell’s Kitchen, and Lower Manhattan.  
